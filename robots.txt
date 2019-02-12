@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veepho.zkey.de/sitemap.xml
